@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MegaCont</string>
+    <string name="contacts">Список контактов</string>
+    <string name="action_exit">Выйти</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_delete">Удалить</string>
+    <string name="name">Имя и Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="city">Город</string>
+    <string name="edit">Редактирование</string>
+    <string name="title_activity_edit">Редактирование</string>
+    <string name="title_activity_add">Добавление</string>
+    <string name="action_back">Назад</string>
+    <string name="go_name">Введите Имя и Фамилию</string>
+    <string name="go_phone">Введите телефон</string>
+    <string name="go_city">Введите город</string>
+    <string name="save">Сохранить</string>
+    <string name="save_good">Изменения успешно сохранены</string>
+    <string name="del_good">Контакт удален</string>
+    <string name="add_good">Контакт добавлен</string>
+
+
+</resources>
